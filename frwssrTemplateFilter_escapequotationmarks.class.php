@@ -5,7 +5,7 @@
  * 
  * @package PerchTemplateFilter_escapequotationmarks
  * @version v1.0.0 
- * @link https://github.com/frwssr/escapequotationmarks-filter
+ * @link https://github.com/frwssr/frwssr_escapequotationmarks
  */
 
 class PerchTemplateFilter_escapequotationmarks extends PerchTemplateFilter 
